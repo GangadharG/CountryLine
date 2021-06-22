@@ -8,11 +8,17 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@apollo/client": "^3.3.20",
+    "@freakycoder/react-native-bounceable": "^0.2.5",
     "expo": "~41.0.1",
     "expo-status-bar": "~1.0.4",
+    "graphql": "^15.5.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native-animated-spinkit": "^1.5.2",
+    "react-native-dynamic-search-bar": "github:WrathChaos/react-native-dynamic-search-bar#expo",
+    "react-native-dynamic-vector-icons": "github:WrathChaos/react-native-dynamic-vector-icons#expo",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {

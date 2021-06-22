@@ -8,7 +8,7 @@ import {
   Platform,
   ActivityIndicator,
 } from "react-native";
-import { useQuery, gql } from "@apollo/client";
+import { useQuery } from "@apollo/client";
 import SearchBar from "react-native-dynamic-search-bar";
 import Icon from "react-native-dynamic-vector-icons";
 
